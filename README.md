@@ -2,6 +2,8 @@
 
 🌱 I’m currently learning ...
 
+---
+
 [![GitCodeView's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitCodeView&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
