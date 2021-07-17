@@ -2,10 +2,7 @@
 
 🌱 I’m currently learning ...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
-
-[![GitCodeView's github stats](https://github-readme-stats.vercel.app/api?username=GitCodeView)](https://github.com/anuraghazra/github-readme-stats)
+![GitCodeView's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitCodeView&show_icons=true&theme=radical)
 
 <!--
 **GitCodeview/GitCodeView** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
