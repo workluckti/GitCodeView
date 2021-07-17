@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🌱 I’m currently learning ...
+
 [![GitCodeView's github stats](https://github-readme-stats.vercel.app/api?username=GitCodeView)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
