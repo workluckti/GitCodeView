@@ -2,9 +2,12 @@
 
 🌱 I’m currently learning ...
 
-![GitCodeView's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitCodeView&show_icons=true&theme=radical)
+[![GitCodeView's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitCodeView&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitCodeView&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GitCodeView)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
